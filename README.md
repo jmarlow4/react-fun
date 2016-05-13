@@ -1,6 +1,6 @@
 # ReactFun
 
-> Just some fun with the React ecosystem!
+Just some fun with the React ecosystem!
 
 ## About
 

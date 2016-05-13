@@ -35,12 +35,15 @@
     "feathers-socketio": "^1.4.0",
     "mongoose": "^4.4.16",
     "passport": "^0.3.2",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
     "serve-favicon": "^2.3.0",
     "winston": "^2.2.0"
   },
   "devDependencies": {
     "jshint": "^2.9.2",
     "mocha": "^2.4.5",
-    "request": "^2.72.0"
+    "request": "^2.72.0",
+    "webpack": "^1.13.0"
   }
 }
