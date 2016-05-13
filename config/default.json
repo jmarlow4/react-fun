@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/ReactFun",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "J/QEvsuHxsY8JHsJq/NHOFNc5nZfykkmDFeZT63v5eoPyqgshmpNbA6oJhK94Ba3faEoEHLy7c6zT/h0jUkoKg=="
+    },
+    "local": {}
+  }
+}
